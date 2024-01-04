@@ -1,0 +1,8 @@
+
+Started GET /posts for :: ::1 at Fri Dec 29 2023 20:24:55 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 304 message:  Time response: 1201 ms Request ID: [651bc8b0-ccde-40a5-8204-4cd0c9bc9f6c]
+
+Started GET /posts for :: ::1 at Fri Dec 29 2023 20:24:56 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 304 message:  Time response: 156 ms Request ID: [7a645a77-af99-47b3-838c-d85fd563d350]

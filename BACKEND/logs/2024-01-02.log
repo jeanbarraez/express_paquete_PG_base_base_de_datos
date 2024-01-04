@@ -1,0 +1,8 @@
+
+Started GET /posts for :: ::1 at Tue Jan 02 2024 20:23:01 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 304 message:  Time response: 5912 ms Request ID: [1ea16d3d-41dc-4bd6-bb89-3377e2570ba1]
+
+Started GET /posts for :: ::1 at Tue Jan 02 2024 20:23:06 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 304 message:  Time response: 35 ms Request ID: [a749ad36-9603-415c-8274-111d54ca7602]

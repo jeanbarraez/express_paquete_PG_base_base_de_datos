@@ -12,5 +12,5 @@ const pool = new pg.Pool({
 
 export default pool;
 
-pool.on("connect", () => console.log("✔ DB connected")); //para saber que la base de dato esta conectada
+pool.on("connect", () => console.log("🔋 DB connected")); //para saber que la base de dato esta conectada
 
